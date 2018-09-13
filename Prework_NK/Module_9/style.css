@@ -1,0 +1,15 @@
+#red_text   { color:red }
+#blue_text  { color:blue }
+#green_text { color:green }
+
+#big_text  { font-size: 24px }
+#tiny_text { font-size: 8px }
+
+#centered_text { text-align: center }
+#bold_text { font-weight: bold }
+#different_font_text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif }
+#multiple_attributes_text { font-size: 24px; color: orange; font-weight: bold }
+
+.styledFont { font-style: italic; background-color: chartreuse }
+
+#styledImage { border-width: 3px; border-style: groove; border-color: blueviolet }
